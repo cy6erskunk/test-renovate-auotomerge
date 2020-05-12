@@ -1,0 +1,26 @@
+{
+  "name": "test-renovate-auotomerge",
+  "version": "0.0.1",
+  "description": "Test renovate automerge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"all good, man :)\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cy6erskunk/test-renovate-auotomerge.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cy6erskunk/test-renovate-auotomerge/issues"
+  },
+  "homepage": "https://github.com/cy6erskunk/test-renovate-auotomerge#readme",
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  },
+  "devDependencies": {
+    "ava": "3.8.0"
+  }
+}
