@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/cy6erskunk/test-renovate-auotomerge#readme",
   "dependencies": {
-    "react": "16.13.0",
-    "react-dom": "16.13.0"
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   },
   "devDependencies": {
     "ava": "3.8.0"
