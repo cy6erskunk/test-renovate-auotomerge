@@ -1,7 +1,11 @@
 {
   "extends": [
-    "config:base"
+    "config:base",
+    ":masterIssue"
   ],
+  "labels": ["renovate-deps", "no release"],
+  "reviewers": ["cy6erskunk"],
+  "rebaseLabel": "rebase",
   "packageRules": [
     {
       "groupName": "React types",
