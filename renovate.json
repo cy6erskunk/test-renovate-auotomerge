@@ -6,6 +6,7 @@
   "labels": ["renovate-deps", "no release"],
   "reviewers": ["cy6erskunk"],
   "rebaseLabel": "rebase",
+  "separateMinorPatch": true,
   "packageRules": [
     {
       "groupName": "React types",
@@ -27,8 +28,7 @@
     {
       "depTypeList": ["devDependencies"],
       "updateTypes": ["patch"],
-      "automerge": true,
-      "separateMinorPatch": true
+      "automerge": true
     }
   ]
 }
