@@ -27,7 +27,8 @@
     {
       "depTypeList": ["devDependencies"],
       "updateTypes": ["patch"],
-      "automerge": true
+      "automerge": true,
+      "separateMinorPatch": true
     }
   ]
 }
